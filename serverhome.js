@@ -1,2 +1,2 @@
-var intranetIp='192.168.43.38';
-var extranetIp='117.136.78.11';
+var intranetIp='192.168.2.100';
+var extranetIp='39.72.92.81';
